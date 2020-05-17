@@ -1,4 +1,4 @@
 couchdb==1.2
 googletrans==2.4.0
+nltk==3.5
 tweepy==3.8.0
-vaderSentiment==3.3.1
